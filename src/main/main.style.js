@@ -6,7 +6,7 @@ export const useStyles = makeStyles((theme) => ({
   profileContainer: {
     display: "flex",
     width: "100%",
-    justifyContent: "end",
+    justifyContent: "flex-end",
   },
   mainContainer: {
     display: "flex",
